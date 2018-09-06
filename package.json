@@ -2,7 +2,7 @@
   "name": "lol-rune-info-creator",
   "version": "1.0.0",
   "description": "Rune info creator for LoL.",
-  "author": "anesin1109 <anesin1109@naver.com>",
+  "author": "Justus Shin <anesin1109@naver.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

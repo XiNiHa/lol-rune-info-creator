@@ -1,6 +1,6 @@
 # lol-rune-info-creator
 
-> 제가 만든 [롤 공략 템플릿](https://github.com/anesin1109/Ruliweb-LoL-Manual-Template) 작성에 사용하려고 제작한 VueJS 기반 룬 정보 생성기입니다.
+> 제가 만든 [롤 공략 템플릿](https://github.com/XiNiHa/Ruliweb-LoL-Manual-Template) 작성에 사용하려고 제작한 VueJS 기반 룬 정보 생성기입니다.
 
 ## 빌드 설정
 
